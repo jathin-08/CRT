@@ -1,7 +1,15 @@
-Reverse Number Problem Statement Write a function reverse_number(n: int) -> int that returns the reversed number.
+Sum of Digits
+Problem Statement
+Write a function sum_of_digits(n: int) -> int that returns the sum of digits of a number.
 
-Example Input: 123
+Example
+Input: 123
 
-Output: 321
+Output: 6
 
-Instructions Write your solution in task.py Do NOT modify test_task.py Run tests locally before pushing Submission Rules Only task.py will be evaluated
+Instructions
+Write your solution in task.py
+Do NOT modify test_task.py
+Run tests locally before pushing
+Submission Rules
+Only task.py will be evaluated
